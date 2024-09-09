@@ -1,4 +1,4 @@
 # Creditcard 
 
-Data set download link :
+Download dataset from the following link :
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
